@@ -1,0 +1,7 @@
+{
+  "name": "art_word_list",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

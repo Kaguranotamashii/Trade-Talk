@@ -1,0 +1,1 @@
+<view class="detail"><view class="title">{{''+detail.title+''}}</view><view class="info"><text>zuozhe</text><text>2022</text></view><view class="content"><rich-text nodes="{{httmll}}"></rich-text></view></view>

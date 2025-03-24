@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/detail",
+    "pages/dictList/dictList",
+    "pages/ListWord/ListWord",
+    "pages/SpecificWords/SpecificWords"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#000",
+    "color": "blue",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "圈子",
+        "pagePath": "pages/forum/forum"
+      },
+      {
+        "text": "个人信息",
+        "pagePath": "pages/personal/personal"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

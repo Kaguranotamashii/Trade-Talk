@@ -1,0 +1,1 @@
+<view class="root"><block wx:for="{{Data}}" wx:for-item="a" wx:for-index="index"><view class="a">{{''+Data[index]+''}}</view></block></view>
